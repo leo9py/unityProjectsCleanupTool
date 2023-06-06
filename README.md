@@ -24,8 +24,6 @@ A Python script to clean up unnecessary folders in Unity projects and move them 
 ## Disclaimer
 Use this tool at your own risk. Always make sure to have backups of your Unity projects before running any cleanup operations. The script moves folders to the recycle bin, but there is still a possibility of data loss if you delete essential files or folders unintentionally.
 
-Certainly! Here's the updated license section with the GPL v3 license:
-
 ## License
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
