@@ -44,6 +44,6 @@ def move_folders_to_recycle_bin(directory):
         print("Removal canceled.")
 
 # Specify the directory containing your Unity projects
-directory_path = "X:\\Archive\\Unorganized 06-2023\\VRChat Projects"
+directory_path = "X:\\INSERT\\YOUR\\UNITY\\PROJECTS\\DIRECTORY"
 
 move_folders_to_recycle_bin(directory_path)
